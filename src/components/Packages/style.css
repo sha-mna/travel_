@@ -1,0 +1,61 @@
+.mainText h1 {
+	text-align: center;
+	margin-top: 30px;
+	font-weight: 600;
+	text-shadow: 0 1px 1px black;
+}
+
+.mainText h1 span {
+	color: #ffa500;
+}
+
+.card {
+    height: 380px;
+}
+
+.packages .card {
+	border-radius: 5px;
+	border: none;
+	box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.packages .card img {
+	border-radius: 5px;
+}
+
+.packages .card .cardContent {
+	background: transparent;
+}
+
+.cardContent h3 {
+	margin-left: 100px;
+}
+
+.cardContent p {
+	margin-left: 10px;
+}
+
+.packages .card .cardContent h3 {
+	font-size: 25px;
+	font-weight: 600;
+}
+
+.checked {
+	color: #ffa500;
+}
+
+.star i {
+	font-size: 15px;
+}
+
+.packages .card .cardContent h6 {
+	font-size: 20px;
+}
+
+.packages .card .cardContent a {
+	padding: 10px;
+	text-decoration: none;
+	background: #ffa500;
+	color: white;
+	border-radius: 5px;
+}
